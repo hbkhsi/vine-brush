@@ -6,7 +6,7 @@
 
 https://processing.org/download
 
-###　How to use
+### How to use
 
 | 入力キー | 動作                                   |
 | :------- | :------------------------------------- |
