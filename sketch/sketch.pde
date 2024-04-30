@@ -6,7 +6,7 @@ import java.util.Date;
 import java.text.SimpleDateFormat;
 import java.io.File;
 import java.util.ArrayList;
-String directoryPath = "/Users/hibikihosoi/Documents/Projects/vine-brush/sketch/data";
+String directoryPath = "/absolute-path-to-data-directory";
 
 String timestamp() {
     Date date = new Date();
